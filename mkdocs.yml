@@ -1,0 +1,4 @@
+site_name: Pino 知识库
+site_url: https://pinotucana.github.io/knowledge-base
+theme:
+  name: material

@@ -1,6 +1,6 @@
-# Source code of [Pino's Knowledge-base](https://pinotucana.github.io/knowledge-base)
+# Preface
 
-* This knowledge base is created using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
+This knowledge base is created using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
 * `Material for MkDocs` is built on top of [mkdocs](https://www.mkdocs.org).
 
